@@ -1,1 +1,1 @@
-# going.github.io
+# lec.github.io
